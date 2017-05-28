@@ -15,15 +15,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="bootStarter" target="1.5" />
-      <module name="configModule" target="1.5" />
-      <module name="controllerModule" target="1.5" />
-      <module name="IMS" target="1.6" />
-      <module name="ims" target="1.6" />
-      <module name="multiboot" target="1.6" />
-      <module name="multiboot1" target="1.6" />
-      <module name="multiboot2" target="1.6" />
-      <module name="multiboot3" target="1.6" />
+      <module name="bootStarter" target="1.8" />
+      <module name="configModule" target="1.8" />
+      <module name="controllerModule" target="1.8" />
+      <module name="multiboot" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
