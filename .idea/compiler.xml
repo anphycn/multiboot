@@ -9,16 +9,7 @@
         <module name="bootStarter" />
         <module name="configModule" />
         <module name="controllerModule" />
-        <module name="multiboot1" />
-        <module name="multiboot2" />
-        <module name="multiboot3" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="bootStarter" target="1.8" />
-      <module name="configModule" target="1.8" />
-      <module name="controllerModule" target="1.8" />
-      <module name="multiboot" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
